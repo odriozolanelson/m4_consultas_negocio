@@ -1,5 +1,5 @@
 ﻿-- ══════════════════════════════════════════
--- Ventas_Tech — Creando la base de datos
+-- Ventas_Tech
 -- Autor: Nelson Odriozola
 -- Fecha: 22/06/2026
 -- Modulo 4
